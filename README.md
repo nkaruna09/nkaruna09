@@ -10,7 +10,7 @@
 - **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, AutoCAD Inventor, Ansys Granta, Maven, DaVinci Resolve  
 - **Other Skills**: Microsoft Office Suite, Google Workspace
 
-## Current Projects:
+## 🌟 Current Projects
 - 🧠 **MacChangers Challenge**: Exploring the question 'How might we help young adults in Hamilton practise self-care in a digital era?'
 - 🌱 **The Reading Grove**: Creating an interactive book tracker to help users manage their personal libraries, set reading goals, and track progress. 
 
