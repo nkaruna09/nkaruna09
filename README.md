@@ -1,16 +1,18 @@
 # Hi there 👋, I'm Nithika!
 
-- 🎓 **Software Engineering and Management Student** at McMaster University 
+- **Software Engineering and Management Student** at McMaster University
+- **Software Developer** at McMaster Interdisciplinary Satellite Team (Mission Operation & Controls sub-team)
+- **Sponsorship Executive** at DeltaHacks
+- **Part-time jobs:** Lead Career Assistant, Teaching Assistant (ENGINEERING 1P13)
 
 ## 🛠️ Tech Skills
 - **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
-- **Frameworks & Libraries**: Flask, React.js 
+- **Frameworks & Libraries**: React, Node.js, Next.js, Flask, Streamlit, TensorFlow, Keras
 - **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, AutoCAD Inventor, Ansys Granta, Maven, DaVinci Resolve  
 - **Other Skills**: Microsoft Office Suite, Google Workspace
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Nithika Karunamoorthy](https://www.linkedin.com/in/nithika-karunamoorthy)  
-- **Email**: nithika.karuna@gmail.com 
+- **LinkedIn**: [Nithika Karunamoorthy](https://www.linkedin.com/in/nithika-karunamoorthy) 
 
 
 <!--
