@@ -15,10 +15,6 @@ Current seeking co-op roles for Summer 2026
 - **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, Maven  
 - **Other Skills**: Microsoft Office Suite, Google Workspace, AutoCAD Inventor, Ansys Granta, DaVinci Resolve 
 
-## Contact Me
-- **LinkedIn**: [Nithika Karunamoorthy](https://www.linkedin.com/in/nithika-karunamoorthy) 
-
-
 <!--
 **nkaruna09/nkaruna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
