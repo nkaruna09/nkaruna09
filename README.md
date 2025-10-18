@@ -1,9 +1,12 @@
-# Hi there 👋, I'm Nithika!
+# Hey, I'm Nithika 💙
+
+Current seeking co-op roles for Summer 2026
 
 - **Software Engineering and Management Student** at McMaster University
-- **Software Developer** at McMaster Interdisciplinary Satellite Team (Mission Operation & Controls sub-team)
-- **Sponsorship Executive** at DeltaHacks
-- **Part-time jobs:** Lead Career Assistant, Teaching Assistant (ENGINEERING 1P13)
+- **Software Developer** @ McMaster Interdisciplinary Satellite Team (Mission Operation & Controls sub-team)
+- **Sponsorship Executive** @ DeltaHacks
+- **Lead Career Assistant** @ McMaster University (The Centre)
+- **Undergraduate Teaching Assistant** - ENGINEERING 1P13 @ McMaster University
 
 ## 🛠️ Tech Skills
 - **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
