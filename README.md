@@ -2,19 +2,20 @@
 
 Current seeking co-op roles for Summer 2026
 
-- **Software Engineering and Management Student** at McMaster University
+## About Me
+- **Software Engineering & Management Student** @ McMaster University
 - **Software Developer** @ McMaster Interdisciplinary Satellite Team (Mission Operation & Controls sub-team)
 - **Sponsorship Executive** @ DeltaHacks
 - **Lead Career Assistant** @ McMaster University (The Centre)
 - **Undergraduate Teaching Assistant** - ENGINEERING 1P13 @ McMaster University
 
-## 🛠️ Tech Skills
+## My Skills
 - **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
 - **Frameworks & Libraries**: React, Node.js, Next.js, Flask, Streamlit, TensorFlow, Keras
-- **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, AutoCAD Inventor, Ansys Granta, Maven, DaVinci Resolve  
-- **Other Skills**: Microsoft Office Suite, Google Workspace
+- **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, Maven  
+- **Other Skills**: Microsoft Office Suite, Google Workspace, AutoCAD Inventor, Ansys Granta, DaVinci Resolve 
 
-## 📫 Let's Connect!
+## Contact Me
 - **LinkedIn**: [Nithika Karunamoorthy](https://www.linkedin.com/in/nithika-karunamoorthy) 
 
 
