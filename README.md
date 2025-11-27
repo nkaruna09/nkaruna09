@@ -8,6 +8,8 @@ Current seeking co-op roles for Summer 2026
 - **Sponsorship Executive** @ DeltaHacks
 - **Lead Career Assistant** @ McMaster University (The Centre)
 - **Undergraduate Teaching Assistant** - ENGINEERING 1P13 @ McMaster University
+- **Participant** @ MacChangers
+- **TNCSC Youth Organizer/Leader** @ TamilNadu Culutural Society of Canada
 
 ## My Skills
 - **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
