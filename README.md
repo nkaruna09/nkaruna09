@@ -16,6 +16,12 @@ Current seeking co-op roles for Summer 2026
 - **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, Maven  
 - **Other Skills**: Microsoft Office Suite, Google Workspace, AutoCAD Inventor, Ansys Granta, DaVinci Resolve 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--
 **nkaruna09/nkaruna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
