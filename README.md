@@ -7,8 +7,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
 </picture>
 
-Incoming Junior Software Developer @ Wolf Advanced Technology (CO-OP)
-Current seeking co-op roles for Winter 2027
+Incoming Junior Software Developer @ Wolf Advanced Technology (CO-OP) | Current seeking co-op roles for Winter 2027
 
 ## About Me
 - **Software Engineering & Management Student** @ McMaster University
