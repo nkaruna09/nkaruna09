@@ -1,6 +1,14 @@
 # Hey, I'm Nithika 💙
 
-Current seeking co-op roles for Summer 2026
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
+</picture>
+
+Incoming Junior Software Developer @ Wolf Advanced Technology (CO-OP)
+Current seeking co-op roles for Winter 2027
 
 ## About Me
 - **Software Engineering & Management Student** @ McMaster University
@@ -8,7 +16,7 @@ Current seeking co-op roles for Summer 2026
 - **Sponsorship Executive** @ DeltaHacks
 - **Lead Career Assistant** @ McMaster University (The Centre)
 - **Undergraduate Teaching Assistant** - ENGINEERING 1P13 @ McMaster University
-- **TNCSC Youth Organizer/Leader** @ TamilNadu Culutural Society of Canada
+- **TNCSC Youth Organizer/Leader** @ TamilNadu Cultural Society of Canada
 
 ## My Skills
 - **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
@@ -16,11 +24,7 @@ Current seeking co-op roles for Summer 2026
 - **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, Maven  
 - **Other Skills**: Microsoft Office Suite, Google Workspace, AutoCAD Inventor, Ansys Granta, DaVinci Resolve 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
-</picture>
+
 
 <!--
 **nkaruna09/nkaruna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
