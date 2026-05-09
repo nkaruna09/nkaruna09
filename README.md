@@ -10,12 +10,8 @@
 **Current seeking co-op roles for Winter 2027**
 
 ## About Me
-- **Incoming Junior Software Developer** @ Wolf Advanced Technology (CO-OP)
+- **Junior Software Developer** @ Wolf Advanced Technology (CO-OP)
 - **Software Engineering & Management Student** @ McMaster University
-- **Software Developer** @ McMaster Interdisciplinary Satellite Team (Mission Operation & Controls sub-team)
-- **Sponsorship Executive** @ DeltaHacks
-- **Lead Career Assistant** @ McMaster University (The Centre)
-- **Undergraduate Teaching Assistant** - ENGINEERING 1P13 @ McMaster University
 - **TNCSC Youth Organizer/Leader** @ TamilNadu Cultural Society of Canada
 
 ## My Skills
