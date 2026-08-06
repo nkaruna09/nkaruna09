@@ -10,16 +10,10 @@
 **Current seeking co-op roles for Winter 2027**
 
 ## About Me
-- **Junior Software Developer** @ Wolf Advanced Technology (CO-OP)
+- **Software Developer** @ Wolf Advanced Technology (CO-OP)
 - **Software Engineering & Management Student** @ McMaster University
+- **Teaching Assistant** @ McMaster University
 - **TNCSC Youth Organizer/Leader** @ TamilNadu Cultural Society of Canada
-
-## My Skills
-- **Programming Languages**: Python, Java, C, JavaScript, HTML/CSS, MATLAB, Bash  
-- **Frameworks & Libraries**: React, Node.js, Next.js, Flask, Streamlit, TensorFlow, Keras
-- **Tools & Software**: VS Code, Linux/Bash, Git, GitHub, Jupyter Notebook, Google Colab, Maven  
-- **Other Skills**: Microsoft Office Suite, Google Workspace, AutoCAD Inventor, Ansys Granta, DaVinci Resolve 
-
 
 
 <!--
