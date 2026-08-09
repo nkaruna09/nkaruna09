@@ -1,4 +1,23 @@
-# Hey, I'm Nithika 💙
+hey, I'm Nithika 💙
+
+a bit about me:
+- Software Developer (CO-OP) @ Wolf Advanced Technology
+- Software Engineering & Management Student @ McMaster University
+- Teaching Assistant @ McMaster University
+- TNCSC Youth Organizer/Leader @ TamilNadu Cultural Society of Canada
+
+currently working on: 
+- building things at WOLF
+- creating [RentFlow](https://github.com/nkaruna09/RentFlow) - a landlord property management platform
+- learning Azure & cloud technologies
+- leetcoding 
+
+previously: 
+- Software Developer @ McMaster Interdisciplinary Satellite Team (MIST)
+
+outside of coding, you'll probably find me hiking, reading, solving Rubik's cubes, playing Stardew Valley, or drinking a lot of tea
+
+and finally... I enjoy watching pacman eat my Github contributions 
 
 ###
 <picture>
@@ -6,15 +25,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nkaruna09/nkaruna09/output/pacman-contribution-graph.svg">
 </picture>
-
-**Current seeking co-op roles for Winter 2027**
-
-## About Me
-- **Software Developer** @ Wolf Advanced Technology (CO-OP)
-- **Software Engineering & Management Student** @ McMaster University
-- **Teaching Assistant** @ McMaster University
-- **TNCSC Youth Organizer/Leader** @ TamilNadu Cultural Society of Canada
-
 
 <!--
 **nkaruna09/nkaruna09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
