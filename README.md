@@ -6,7 +6,7 @@
 - Teaching Assistant @ McMaster University
 - TNCSC Youth Organizer/Leader @ TamilNadu Cultural Society of Canada
 
-**currently working on: **
+**currently working on:**
 - building things at WOLF
 - creating [RentFlow](https://github.com/nkaruna09/RentFlow) - a landlord property management platform
 - learning Azure & cloud technologies
