@@ -7,13 +7,13 @@
 - TNCSC Youth Organizer/Leader @ TamilNadu Cultural Society of Canada
 
 **currently working on:**
-- building things at WOLF
+- building internal services at WOLF
 - creating [RentFlow](https://github.com/nkaruna09/RentFlow) - a landlord property management platform
 - learning Azure & cloud technologies
-- leetcoding 
 
 **previously:** 
 - Software Developer @ McMaster Interdisciplinary Satellite Team (MIST)
+- Educational Research Assistant (CO-OP) @ McMaster University
 
 ###
 <picture>
